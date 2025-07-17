@@ -69,40 +69,7 @@ A collaborative, real-time code editor where users can seamlessly code together.
    http://localhost:5173/
    ```
 
-### Method 2: Docker Installation
 
-1. **Install Docker Desktop:**
-
-   - Download and install **Docker Desktop** from [Docker’s official website](https://www.docker.com/products/docker-desktop/).
-   - Verify installation:
-     ```bash
-     docker --version
-     ```
-
-2. **Pull Docker Images:**
-
-   ```bash
-   # Pull Backend Image
-   docker pull sahilatahar/code-sync-server:latest
-
-   # Pull Frontend Image
-   docker pull sahilatahar/code-sync-client:latest
-   ```
-
-3. **Run Docker Containers:**
-
-   ```bash
-   # Run Backend Container (Port 3000)
-   docker run -d -p 3000:3000 --name code-sync-server sahilatahar/code-sync-server:latest
-
-   # Run Frontend Container (Port 5173)
-   docker run -d -p 5173:5173 --name code-sync-client sahilatahar/code-sync-client:latest
-   ```
-
-4. **Access the application:**
-   ```bash
-   http://localhost:5173/
-   ```
 
 
 
