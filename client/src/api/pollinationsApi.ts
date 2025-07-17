@@ -1,9 +1,9 @@
 import axios, { AxiosInstance } from "axios"
 
-const pistonBaseUrl = "https://emkc.org/api/v2/piston"
+const pollinationsBaseUrl = "https://text.pollinations.ai"
 
 const instance: AxiosInstance = axios.create({
-    baseURL: pistonBaseUrl,
+    baseURL: pollinationsBaseUrl,
     headers: {
         "Content-Type": "application/json",
     },
