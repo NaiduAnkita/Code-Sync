@@ -87,7 +87,7 @@ const FormComponent = () => {
             socket.connect()
         }
     }, [currentUser, location.state?.redirect, navigate, setStatus, socket, status])
-
+// return
     return (
         <div className="flex w-full max-w-[500px] flex-col items-center justify-center gap-4 p-4 sm:w-[500px] sm:p-8">
             <img src={logo} alt="Logo" className="w-full"/>
