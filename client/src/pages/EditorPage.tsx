@@ -46,7 +46,10 @@ function EditorPage() {
     if (status === USER_STATUS.CONNECTION_FAILED) {
         return <ConnectionStatusPage />
     }
-
+    
+    if (!currentUser.username || !currentUser.roomId) {
+    return null; // or a loading spinner
+}
     return (
         <SplitterComponent>
             <Sidebar />

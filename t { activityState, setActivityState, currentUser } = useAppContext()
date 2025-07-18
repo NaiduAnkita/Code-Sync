@@ -1,0 +1,247 @@
+[33mcommit 499e21c870fbc0c77bdf35a19785846c064d2364[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Fri Jul 18 10:45:53 2025 +0530
+
+    Add files via upload
+
+[33mcommit d486a005fad0cfaac9a848c0d4073e0bef03086b[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Fri Jul 18 10:45:23 2025 +0530
+
+    Add files via upload
+
+[33mcommit e4f2b5dfa765a1f3e0fba1b9f473211c2a318bd6[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Fri Jul 18 10:41:41 2025 +0530
+
+    Add files via upload
+
+[33mcommit fd93265b600810d4aa3c57db65bd56e525afd40e[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Fri Jul 18 10:40:45 2025 +0530
+
+    Add files via upload
+
+[33mcommit 4c704391dbdd52c445b644773e0b36d11a664033[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Fri Jul 18 10:39:17 2025 +0530
+
+    Add files via upload
+
+[33mcommit 598382fd003f9850e31dbd9b3df2f86ddeaec95a[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Fri Jul 18 10:38:31 2025 +0530
+
+    Add files via upload
+
+[33mcommit af6de600d6e3a0f5c04f023bde016517e5a9e51a[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Fri Jul 18 10:37:31 2025 +0530
+
+    Delete client/src/components/files/FileTab.tsx
+
+[33mcommit 0defe56f9e433e4dd053723cd52d9759e4b3ca3d[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Fri Jul 18 10:37:17 2025 +0530
+
+    Delete client/src/components/files/tooltip.ts
+
+[33mcommit d5f8eedfaae1e56cdc9d336069a13d53b93428d9[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Fri Jul 18 10:37:03 2025 +0530
+
+    Delete client/src/components/files/EditorComponent.tsx
+
+[33mcommit ff60148b61da56a35dd302630585f67257db2083[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Fri Jul 18 10:36:49 2025 +0530
+
+    Delete client/src/components/files/Editor.tsx
+
+[33mcommit d86de15d1a0ced5c637a6a4ee466bf3908c5ad82[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Fri Jul 18 10:36:13 2025 +0530
+
+    Add files via upload
+
+[33mcommit e052386f9a074a145aaae72f4859f3b276ce8cda[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Fri Jul 18 10:34:30 2025 +0530
+
+    Add files via upload
+
+[33mcommit acb206b4b73047309701928ebe7a89e19750e222[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 23:15:50 2025 +0530
+
+    Delete server/.dockerignore
+
+[33mcommit 850521b2f3e791aaa00b4e62ce6eba427b9d6a89[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 23:15:29 2025 +0530
+
+    Delete server/Dockerfile
+
+[33mcommit 942cecb8ee11f64ab1ef0569f00947199b8b2910[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 23:15:07 2025 +0530
+
+    Delete client/.dockerignore
+
+[33mcommit 17a6e40bf21e6d98d054ccd6b56c8a5fb9019e33[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 23:14:51 2025 +0530
+
+    Delete client/Dockerfile
+
+[33mcommit 782148541a9f759c2b0071c1905ad7e90efe6cb6[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 23:14:23 2025 +0530
+
+    Delete docker-compose.yml
+
+[33mcommit e8dff6614312f3c062e10a7eaa69175b0d0f462d[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 23:14:07 2025 +0530
+
+    Update README.md
+
+[33mcommit 618742f8cf6316e97199466f60e115f3b2f8d54c[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 23:13:35 2025 +0530
+
+    Update README.md
+
+[33mcommit ab0b3fb3c540d3dec4ff5f0645c53792b6c2846b[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 23:11:31 2025 +0530
+
+    Add files via upload
+
+[33mcommit b9c3387c3fe2b6b84c6b9d55ca8bd9ae19b11aff[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 23:10:00 2025 +0530
+
+    Add files via upload
+
+[33mcommit 08d4ac92b95cdee7a7699a98a701db510148c112[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 23:08:50 2025 +0530
+
+    Create socket.ts
+
+[33mcommit 757f235114d349538767817d9ef9fed414204cbd[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 23:08:04 2025 +0530
+
+    Create index.html
+
+[33mcommit 212ea458c7b66c8080ac7678cea43481743346c0[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 23:07:11 2025 +0530
+
+    Add files via upload
+
+[33mcommit e0946344d9a630173b8b0eb6fba319178207eb86[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 23:04:25 2025 +0530
+
+    Add files via upload
+
+[33mcommit 7947b0cfaf4afdde1b9079c7a06bcea2a747da5a[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 23:04:07 2025 +0530
+
+    Create Fonts.ts
+
+[33mcommit 9bd102dcfa7369c32ad44a89128a7a2e9b1c9c3c[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 23:03:46 2025 +0530
+
+    Create global.css
+
+[33mcommit b63e43fad2e42bd269046282e8e8e3dddfb74980[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 23:02:53 2025 +0530
+
+    Add files via upload
+
+[33mcommit 8d3e4e3f06c4548f0bcc4f453d9ff4a96048ce1f[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 23:02:17 2025 +0530
+
+    Create app.ts
+
+[33mcommit 9f7a24c539eb3053c709434a050a8ec79d1e8ba2[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 23:01:46 2025 +0530
+
+    Delete client/src/getIconClassName.ts
+
+[33mcommit 49c00a3edc27968e82dad10dc8b9af92fdf53496[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 23:01:37 2025 +0530
+
+    Delete client/src/formateDate.ts
+
+[33mcommit 4b8bc5848c52087a450ac51453edcbcd03dd034c[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 23:01:21 2025 +0530
+
+    Delete client/src/file.ts
+
+[33mcommit d0cb6a281c515d54ee114dc03aad2d86d92e13c1[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 23:00:23 2025 +0530
+
+    Add files via upload
+
+[33mcommit b9e30a15be78a35846c561a5d25f31f52dd26692[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 22:59:45 2025 +0530
+
+    Update and rename client/src/customMapping.ts to client/src/utils/customMapping.ts
+
+[33mcommit 2ec354c0788e3798694209d9fa40ef728a2992b0[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 22:57:16 2025 +0530
+
+    Add files via upload
+
+[33mcommit 557c3efe325a54e6bff3156f5a2772ee1c8db003[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 22:56:41 2025 +0530
+
+    Create EditorPage.tsx
+
+[33mcommit c4bd56a100881a3a00c92aa89f9e71a7f80f1263[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 22:56:06 2025 +0530
+
+    Add files via upload
+
+[33mcommit 9e9843a7a16b64fde2106e1f383546d88c109fcc[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 22:55:33 2025 +0530
+
+    Create useContextMenu.tsx
+
+[33mcommit c4d5094c68a0390a3037bf28707104891b74a0f1[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 22:54:02 2025 +0530
+
+    Create AppContext.tsx
+
+[33mcommit ae48b175d9410a8d4c516755aa55ca3b85d63b85[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 22:52:20 2025 +0530
+
+    Create index.tsx
+
+[33mcommit 1bd5808117e47e1c092d15130f8c8f5f33abb149[m
+Author: NaiduAnkita <115968640+NaiduAnkita@users.noreply.github.com>
+Date:   Thu Jul 17 22:51:31 2025 +0530
+
+    Create Toast.tsx
+
+[33mcommit d4eb57e2c274bb12327c7b3a15

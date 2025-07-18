@@ -14,6 +14,7 @@ import { Tooltip } from 'react-tooltip'
 import { useState } from 'react'
 import { tooltipStyles } from "./tooltipStyles"
 
+
 function Sidebar() {
     const {
         activeView,
@@ -41,7 +42,6 @@ function Sidebar() {
             setIsSidebarOpen(false)
         }
     }
-
     return (
         <aside className="flex w-full md:h-full md:max-h-full md:min-h-full md:w-auto">
             <div
