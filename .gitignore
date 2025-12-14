@@ -4,5 +4,9 @@ TODO.md
 
 # env files
 .env
+client/src/.env
+server/src/.env
+
 client/.env
 server/.env
+
