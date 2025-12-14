@@ -1,2 +1,8 @@
 start.bat
 TODO.md
+# .env
+
+# env files
+.env
+client/.env
+server/.env
